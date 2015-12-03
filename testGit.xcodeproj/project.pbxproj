@@ -12,6 +12,7 @@
 		77B3EEA71C10BF18006B4484 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77B3EEA51C10BF18006B4484 /* Main.storyboard */; };
 		77B3EEA91C10BF18006B4484 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77B3EEA81C10BF18006B4484 /* Assets.xcassets */; };
 		77B3EEAC1C10BF18006B4484 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77B3EEAA1C10BF18006B4484 /* LaunchScreen.storyboard */; };
+		77B3EEB41C10C077006B4484 /* TestCommit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B3EEB31C10C077006B4484 /* TestCommit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		77B3EEA81C10BF18006B4484 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77B3EEAB1C10BF18006B4484 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77B3EEAD1C10BF18006B4484 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77B3EEB31C10C077006B4484 /* TestCommit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestCommit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				77B3EEA81C10BF18006B4484 /* Assets.xcassets */,
 				77B3EEAA1C10BF18006B4484 /* LaunchScreen.storyboard */,
 				77B3EEAD1C10BF18006B4484 /* Info.plist */,
+				77B3EEB31C10C077006B4484 /* TestCommit.swift */,
 			);
 			path = testGit;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				77B3EEA41C10BF18006B4484 /* ViewController.swift in Sources */,
 				77B3EEA21C10BF18006B4484 /* AppDelegate.swift in Sources */,
+				77B3EEB41C10C077006B4484 /* TestCommit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +290,7 @@
 				77B3EEB21C10BF18006B4484 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
